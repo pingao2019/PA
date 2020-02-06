@@ -19,7 +19,7 @@ url: "https://pingao.github.io"
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
+#navbar-links:
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -86,14 +86,14 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
+#hare-links-active:
   twitter: false
   facebook: false
   linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
