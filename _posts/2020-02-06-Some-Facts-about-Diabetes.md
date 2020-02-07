@@ -38,20 +38,17 @@ We can see glucose level shows positive correlation with insulin (r= 33.13%), ag
 ## III. Seanborn Pairplot graph 2
 ![Seanborn Pairplot Graph1](https://miro.medium.com/max/1349/1*otYsp9K0m2JA04vvq4IlEw.png)
 
-## IV. Seanborn heatmap plotting
-![Seanborn Heatmap](https://miro.medium.com/max/350/1*ZFndad4dfp2xtRdywkz_0Q.png)
-
-Blue : positive correlation; Peach: negative correlation
-
-Outcome=1: diabetes; outcome=0 : normal
+## IV. Seanborn pairplotting
+![Seanborn Heatmap](https://miro.medium.com/max/328/1*0JcOIMP_jkVVD5E7pSU4RA.png)
 
 
 
 # Conclusion:
 
-Diabetes is strongly associated to age, obesity, pregnancy, blood pressure, genetic factor . They show positive correlated.
+Diabetes is positive correlated to body weight, age, pregnancy, blood pressure, genetic factor, and so on. 
+We can use such facts diagnose this disease and improve the therapy. 
+E.g. , higher BMI is correlated to diabetes, so lose wight, diet, physical activit can help to treat this disease.
 
-Diabetes can be treated with diet, physical activity, medication.
-
+In the future, we can  make a model to diagnose diabetes for long distnace diagnosis.
 
 [Data resources](https://data.world/anaozp/diabetes/workspace/file?filename=diabetes.csv)
