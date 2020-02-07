@@ -28,7 +28,7 @@ url: "https://pingao2019.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "https://miro.medium.com/fit/c/256/256/2*r7D4hq-8BNh0RVCSsyc-rA.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
