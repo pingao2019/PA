@@ -18,9 +18,10 @@ It is strongly associated to age, obesity, pregnancy, blood pressure, genetic fa
 
 I collected, cleaned, analyzed, and visualized the data (size 768 x 9).
 
-## How I did?
+## Useful ?
 
-I collected, cleaned, analyzed, and visualized the data (size 768 x 9).
+    To see clearly how some factors take so import on causing this disease.
+    To make a model to diagnose diabetes for medical remote diagnosis in the future.
 
 # Methods & Analysis:
 
@@ -33,7 +34,7 @@ We can see glucose level shows positive correlation with insulin (r= 33.13%), ag
 ## II. Seanborn Pairplot Graph1
 ![Seanborn Pairplot Graph1](https://miro.medium.com/max/1144/1*uk3jEFXDZCeRybhasmW9iA.png)
 
-
+![Seanborn Pairplot](https://miro.medium.com/max/879/1*Gzzi5g8u5bZPNswjcvVhyA.png)
 
 ## III. Seanborn Pairplot graph 2
 ![Seanborn Pairplot Graph1](https://miro.medium.com/max/1349/1*otYsp9K0m2JA04vvq4IlEw.png)
