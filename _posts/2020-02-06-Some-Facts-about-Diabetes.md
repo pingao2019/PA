@@ -46,6 +46,8 @@ Blue : positive correlation; Peach: negative correlation
 
 Outcome=1: diabetes; outcome=0 : normal
 
+
+
 # Conclusion:
 
 Diabetes is strongly associated to age, obesity, pregnancy, blood pressure, genetic factor . They show positive correlated.
