@@ -40,6 +40,7 @@ We can see glucose level shows positive correlation with insulin (r= 33.13%), ag
 
 ## IV. Seanborn heatmap plotting
 ![Seanborn Heatmap](https://miro.medium.com/max/350/1*ZFndad4dfp2xtRdywkz_0Q.png)
+
 Blue : positive correlation; Peach: negative correlation
 Outcome=1: diabetes; outcome=0 : normal
 
