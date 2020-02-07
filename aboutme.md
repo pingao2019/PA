@@ -3,4 +3,4 @@ layout: page
 title: About me
 subtitle: Life is Good! 
 
-My name is Ping Ao. 
+I am Ping Ao, a data science student. 
